@@ -1,6 +1,7 @@
 # Copyright (C) 2015 WP Job Manager
 # This file is distributed under the same license as the WP Job Manager package.
 # Translators:
+# Alexandre Viebrantz <alexandreviebrantz@gmail.com>, 2015
 # BRUNO KIM ALMEIDA WATANABE <watanabe.bruno@gmail.com>, 2015
 # Claudio Sanches <contato@claudiosmweb.com>, 2014-2015
 # David Vasconcelos <vascoda40@gmail.com>, 2015
@@ -762,7 +763,7 @@ msgstr "localizada em &ldquo;%s&rdquo;"
 
 #: includes/class-wp-job-manager-ajax.php:188
 msgid "Showing all %s"
-msgstr "Mostrando todos %s"
+msgstr "Mostrando todas %s"
 
 #: includes/class-wp-job-manager-geocode.php:141
 msgid "No results found"
